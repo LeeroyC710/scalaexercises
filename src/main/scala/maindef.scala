@@ -17,5 +17,4 @@ object maindef extends App {
     println("Persons age is: "  + person.age)
   }
   showEvaluationOnDefine()
-
 }
